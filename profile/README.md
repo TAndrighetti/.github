@@ -34,6 +34,11 @@ This organization is intended to provide a structured environment for:
 
 For repository organization, Git/GitHub usage, data management, and contribution practices, please refer to the laboratory documentation/wiki.
 
-## Contact
+## Contacts and administrators
 
-For questions about repository access, organization, or computational workflows, please contact the repository maintainer or the organization administrators.
+For questions about repository access, organization, GitHub usage, or computational workflows, please contact one of the organization administrators.
+
+- **Tahila Andrighetti** - Postdoctoral Researcher/Bioinformatician - tahila@unicamp.br 
+- **Renato Augusto Corrêa dos Santos** - Postdoctoral Researcher/Bioinformatician - renatoacsantos@gmail.com
+
+
